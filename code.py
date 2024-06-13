@@ -1,13 +1,3 @@
- # I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code solution.
- #Reference
-   #Zelle, J.M. (2004) Python Programming: An Introduction to Computer Science.
-   #CS Dojo (2018) How to use functions in Python(Python Tutorial #3):https://www.youtube.com/watch?v=NSbOtYzIQI0.
-   #W3schools (2019).Python Lists.[online]W3schools.com: https://www.w3schools.com/python/python_lists.asp.
-# Student ID: w20519586
-# Date: 10/12/2023
-
-
 #PART1
 from graphics import *
 
